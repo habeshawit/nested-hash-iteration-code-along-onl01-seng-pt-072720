@@ -27,4 +27,3 @@ contacts.each do |person, contact_details_hash|
     end
   end
 end
-end
